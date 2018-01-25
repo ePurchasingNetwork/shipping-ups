@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      "@genomeinc/shipping-ups@0.5.8",
+      "/home/nicolasmazuryk/Documents/epn-api"
+    ]
+  ],
+  "_from": "@genomeinc/shipping-ups@0.5.8",
+  "_id": "@genomeinc/shipping-ups@0.5.8",
+  "_inBundle": false,
+  "_integrity": "sha1-4mLz8GmuD3TuvHYeTe6fGJyJZuw=",
+  "_location": "/@genomeinc/shipping-ups",
+  "_phantomChildren": {
+    "bluebird": "3.5.1",
+    "concat-stream": "1.6.0",
+    "ejs": "2.5.7",
+    "finalhandler": "1.1.0",
+    "is-utf8": "0.2.1",
+    "request": "2.81.0",
+    "sax": "1.2.4",
+    "selectn": "0.9.6",
+    "serve-static": "1.13.1",
+    "uuid": "3.1.0",
+    "xml-crypto": "0.8.5"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@genomeinc/shipping-ups@0.5.8",
+    "name": "@genomeinc/shipping-ups",
+    "escapedName": "@genomeinc%2fshipping-ups",
+    "scope": "@genomeinc",
+    "rawSpec": "0.5.8",
+    "saveSpec": null,
+    "fetchSpec": "0.5.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@genomeinc/shipping-ups/-/shipping-ups-0.5.8.tgz",
+  "_spec": "0.5.8",
+  "_where": "/home/nicolasmazuryk/Documents/epn-api",
+  "author": {
+    "name": "uh-sem-blee, Co"
+  },
+  "bugs": {
+    "url": "https://github.com/uh-sem-blee/node-shipping-ups/issues"
+  },
+  "dependencies": {
+    "node.extend": "^1.1.5",
+    "soap": "git@github.com:ePurchasingNetwork/node-soap.git",
+    "xml2js": "^0.4.19",
+    "xmlbuilder": "^2.6.4"
+  },
+  "description": "UPS API bindings for Node.JS",
+  "directories": {},
+  "homepage": "https://github.com/uh-sem-blee/node-shipping-ups#readme",
+  "keywords": [
+    "shipping",
+    "shipping integration",
+    "ups",
+    "ups api",
+    "ups ship",
+    "ups label",
+    "ups tracking",
+    "ups rate",
+    "ups rating",
+    "ups pickup",
+    "address verification",
+    "time in transit",
+    "surepost",
+    "sure post",
+    "ups return service",
+    "tax ids",
+    "transaction references",
+    "ups freight"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "name": "@genomeinc/shipping-ups",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uh-sem-blee/node-shipping-ups.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.5.8"
+}
