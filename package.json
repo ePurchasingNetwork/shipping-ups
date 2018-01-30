@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "node.extend": "^1.1.5",
-    "soap": "git@github.com:ePurchasingNetwork/node-soap.git",
+    "soap": "git+https://github.com/ePurchasingNetwork/node-soap.git",
     "xml2js": "^0.4.19",
     "xmlbuilder": "^2.6.4"
   },
